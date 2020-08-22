@@ -1,6 +1,6 @@
 # LAO Templates
 
-> Templates for legal entities that support decentralized autonomous organization structures.
+> Templates to create legally compliant decentralized autonomous organizations.
 
 <br />
 
